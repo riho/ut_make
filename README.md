@@ -13,5 +13,5 @@ Drush makefiles to build ut.ee.
 2. Run following command:
 
 ```  
-drush make https://raw.github.com/kristjanjansen/ut_make/master/ut.make ut
+drush make https://raw.github.com/riho/ut_make/master/ut.make ut
 ```
