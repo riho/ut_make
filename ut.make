@@ -1,4 +1,4 @@
-includes[local] = "/home/vhosts/saurus5_gits/s5_reigo_make/s5_reigo_make"
+includes[local] = "/home/vhosts/saurus5_gits/s5_reigo_make/saurus5_core.make"
 
 projects[] = "domain"
 projects[] = "facetapi"
